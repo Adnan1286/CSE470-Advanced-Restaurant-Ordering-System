@@ -1,1 +1,1 @@
-# CSE470-Advanced-Restaurant-Ordering-System
+# Advanced-Restaurant-Ordering-System
